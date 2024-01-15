@@ -33,3 +33,6 @@ A project assignment to create various financial reports by Codebasic Academy.
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+
+Note: As the project Excel file is not uploaded due to size limitation as it's size exceeds 25MB.
