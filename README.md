@@ -5,9 +5,13 @@ A project assignment to create various financial reports by Codebasic Academy.
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]()_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Vivek-S1n9h/Finance-Analytics-Report/blob/main/Profit_and_Loss_by_year.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]()_
+    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Vivek-S1n9h/Finance-Analytics-Report/blob/main/Profit_and_Loss_by_markets.pdf)_
+
+    **3.** Create Profit and Loss (P&L) reports by _[Fiscal Months](https://github.com/Vivek-S1n9h/Finance-Analytics-Report/blob/main/Profit_and_Loss_by_months.pdf)_
+
+    **4.** Create Gross Margin percentage (GM_%) reports by _[subzone or quarters](https://github.com/Vivek-S1n9h/Finance-Analytics-Report/blob/main/Gross_margin_%25_by_qtr.pdf)_
 
 - **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
