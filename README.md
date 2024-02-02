@@ -3,7 +3,7 @@ A project assignment to create various financial reports by Codebasic Academy.
 
 ## Tools used:
 
--**Microsoft Excel** 
+- **Microsoft Excel** 
 
 ## Finance Report :
 
