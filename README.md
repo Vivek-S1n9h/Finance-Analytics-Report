@@ -1,6 +1,10 @@
 # Finance Analytics
 A project assignment to create various financial reports by Codebasic Academy.
 
+## Tools used:
+
+-**Microsoft Excel** 
+
 ## Finance Report :
 
 - **Project objective:** 
