@@ -35,4 +35,4 @@ A project assignment to create various financial reports by Codebasic Academy.
 - [x]	Developing a systematic approach to devising a report building plan.
 
 
-Note: The project Excel file is not uploaded due to size limitations as its size exceeds 25MB.
+Note: The project Excel file is not uploaded due to Codebasics terms and conditions.
