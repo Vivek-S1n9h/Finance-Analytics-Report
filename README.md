@@ -38,5 +38,18 @@ A project assignment to create various financial reports by Codebasic Academy.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
 
+## Project Solutions:
 
-Note: The project Excel file is not uploaded due to Codebasics terms and conditions.
+**1.** __[Profit and Loss by Year](https://github.com/Vivek-S1n9h/Finance-Analytics-Report/blob/main/Profit_and_Loss_by_year.pdf)__ 
+![profit_and_loss_by_year](https://github.com/Vivek-S1n9h/Finance-Analytics-Report/assets/121023465/8f69a2a2-cbff-489a-81f0-51e6b43e901a)
+
+**2.** __[Profit and Loss by Markets](https://github.com/Vivek-S1n9h/Finance-Analytics-Report/blob/main/Profit_and_Loss_by_markets.pdf)__
+![profit_and_loss_by_markets](https://github.com/Vivek-S1n9h/Finance-Analytics-Report/assets/121023465/4fcb8997-cb07-4b35-a918-7ceffbd2e1c1)
+
+**3.** __[Profit and Loss by Fiscal Months](https://github.com/Vivek-S1n9h/Finance-Analytics-Report/blob/main/Profit_and_Loss_by_months.pdf)__
+![profit_and_loss_by_months](https://github.com/Vivek-S1n9h/Finance-Analytics-Report/assets/121023465/6472b6b5-70ea-488a-8dfe-7577e70e9d63)
+
+**4.** __[Gross margin by subzone or quarters](https://github.com/Vivek-S1n9h/Finance-Analytics-Report/blob/main/Gross_margin_%25_by_qtr.pdf)__
+![gross_margin_by_qtr](https://github.com/Vivek-S1n9h/Finance-Analytics-Report/assets/121023465/25052703-f96a-489a-8628-1f40eaa1bad5)
+
+Note: The project dataset is not uploaded as per Codebasics terms and conditions.
