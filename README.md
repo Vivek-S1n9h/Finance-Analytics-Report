@@ -1,6 +1,6 @@
 # Finance Analytics
-A project assignment to create various financial reports by Codebasic Academy.
-
+AtliQ Hardware wants to explore and evaluate their financial performance for the past years. They want their data summarised to compare their bechmark agaist their peers and make their decision on future strategy as per the organizations financial outlook.
+ 
 ## Tools used:
 
 - **Microsoft Excel** 
